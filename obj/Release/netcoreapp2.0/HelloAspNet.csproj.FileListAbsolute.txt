@@ -1,0 +1,11 @@
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\bin\Release\netcoreapp2.0\HelloAspNet.deps.json
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\bin\Release\netcoreapp2.0\HelloAspNet.runtimeconfig.json
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\bin\Release\netcoreapp2.0\HelloAspNet.runtimeconfig.dev.json
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\bin\Release\netcoreapp2.0\HelloAspNet.dll
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\bin\Release\netcoreapp2.0\HelloAspNet.pdb
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\obj\Release\netcoreapp2.0\HelloAspNet.csprojResolveAssemblyReference.cache
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\obj\Release\netcoreapp2.0\HelloAspNet.csproj.CoreCompileInputs.cache
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\obj\Release\netcoreapp2.0\HelloAspNet.AssemblyInfoInputs.cache
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\obj\Release\netcoreapp2.0\HelloAspNet.AssemblyInfo.cs
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\obj\Release\netcoreapp2.0\HelloAspNet.dll
+C:\Users\NoCry\source\repos\HelloAspNet\HelloAspNet\obj\Release\netcoreapp2.0\HelloAspNet.pdb
